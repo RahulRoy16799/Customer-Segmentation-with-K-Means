@@ -1,4 +1,4 @@
-# Customer-Segmentation-with-KNN
+# Customer-Segmentation-with-K-Means
 This project performs customer segmentation using the Mall Customers dataset by applying K-Means clustering on different feature combinations. The analysis focuses on identifying patterns in Annual Income, Spending Score, and Age to group customers into meaningful segments.
 
 K-Means Clustering:
